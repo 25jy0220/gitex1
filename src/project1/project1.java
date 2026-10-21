@@ -6,6 +6,7 @@ public class project1 {
 		// TODO 自動生成されたメソッド・スタブ
 System.out.println("hello");
 System.out.println("follow");
+System.out.println("another");
 	}
 
 }
